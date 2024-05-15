@@ -38,6 +38,7 @@ def whack_mole():
             print("No Mole on Screen")
 
 if __name__ == "__main__":
+    time.sleep(10) # 10 seconds of timer to manually open the https://plays.org/whack-a-mole/ site and make it ready with Start Button on Screen
     click_button(CONTINUE_BUTTON, "Continue")
     click_button(START_BUTTON, "Start")
     while True:
