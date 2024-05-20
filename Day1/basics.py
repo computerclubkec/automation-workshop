@@ -1,11 +1,10 @@
-'''For your workshop on the basics of Python, it's essential to cover the fundamental concepts that will prepare participants for automation tasks. Given the 1.5-hour time frame (90 minutes), here's a suggested agenda with code examples:'''
-
-# 1. Introduction to Python (5 minutes)
+# 1. Introduction to Python
 # Brief overview of Python's capabilities and applications in automation.
-# 2. Basic Syntax and Data Types (15 minutes)
+
+# 2. Basic Syntax and Data Types 
 # Variables and Data Types: integers, floats, strings, and booleans.
 # Basic Operations: arithmetic operations, string concatenation.
-# python
+
 
 # Variables and Data Types
 integer_var = 10
@@ -21,6 +20,8 @@ boolean_check = integer_var > float_var
 print(sum_result)  # 30.5
 print(concat_result)  # Hello, World! This is Python.
 print(boolean_check)  # False
+
+
 # 3. Control Structures (20 minutes)
 # Conditional Statements: if, elif, else.
 # Loops: for loop, while loop.
@@ -89,7 +90,3 @@ with open("example.txt", "w") as file:
 with open("example.txt", "r") as file:
     content = file.read()
     print(content)  # Hello, this is a test file.
-# 7. Q&A and Wrap-Up (5 minutes)
-# Open the floor for any questions.
-# Brief summary of what was covered and how it ties into automation.
-# By covering these basics, participants will be well-prepared for the subsequent automation topics.
