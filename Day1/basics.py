@@ -22,7 +22,7 @@ print(concat_result)  # Hello, World! This is Python.
 print(boolean_check)  # False
 
 
-# 3. Control Structures (20 minutes)
+# 3. Control Structures
 # Conditional Statements: if, elif, else.
 # Loops: for loop, while loop.
 
@@ -45,7 +45,9 @@ count = 0
 while count < 5:
     print(count)
     count += 1  # Prints 0 to 4
-# 4. Functions (15 minutes)
+
+
+# 4. Functions 
 # Defining Functions: def keyword, parameters, return statement.
 # Calling Functions.
 
@@ -57,7 +59,8 @@ def greet(name):
 # Calling a function
 message = greet("Alice")
 print(message)  # Hello, Alice!
-# 5. Lists and Dictionaries (20 minutes)
+
+# 5. Lists and Dictionaries
 # Lists: creation, indexing, methods (append, remove).
 # Dictionaries: creation, accessing values, methods (keys, values).
 
