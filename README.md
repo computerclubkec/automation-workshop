@@ -12,15 +12,15 @@ This workshop is designed to introduce you to the fundamentals of automation usi
             <img src="https://avatars.githubusercontent.com/u/64427471?v=4">
         </th>
         <th>
-            <img src="https://avatars.githubusercontent.com/u/64427471?v=4">
+            <img src="https://avatars.githubusercontent.com/u/120701859?v=4">
         </th>
     </thead>
     <tbody>
         <td>
-            <a href="https://github.com/gaurovgiri">Gaurav Giri</a>
+            <center><h3><a href="https://github.com/gaurovgiri">Gaurav Giri <br>Kan077BCT034</a></h3></center>
         </td>
         <td>
-            <a href="https://github.com/KhatiwadaPrajwal056">Prajwal Khatiwada</a>
+            <center><h3><a href="https://github.com/KhatiwadaPrajwal056">Prajwal Khatiwada <br>Kan077BCT056</a></h3></center>
         </td>
     
 </table>
